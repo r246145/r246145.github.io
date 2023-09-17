@@ -46,7 +46,7 @@ $.get(m3u8Url,(data)=>{
     var player = new window.Player({
         id: "player-con",
         url: dataURI,
-        playsinline: true,
+        playsinline: false,
         autoplay: true,
         width: "100%",
         height: (screenHeight - 80) + "px", 
