@@ -53,13 +53,8 @@ $.get(m3u8Url,(data)=>{
         playbackRate: [0.5,0.75,1,1.25,1.5,2],
         plugins: [window.HlsJsPlugin,],
     });
-    player.on('play', (data) => {
+    player.on('loadeddata', (data) => {
       $('#loading').remove();
-      confirm("play");
-    })
-    play.on('autoplay_was_prevented',()=>{
-        $('#loading').remove();
-        confirm("自动播放失败");
     })
 })
 try{}catch(e){}
