@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://img-sz.topys.cn/topys_web_upload/1694969518510.png
+#EXTINF:2.280000,
+https://img-sz.topys.cn/topys_web_upload/1694969518482.png
+#EXT-X-ENDLIST
