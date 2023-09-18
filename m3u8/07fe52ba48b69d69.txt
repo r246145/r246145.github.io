@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://cdn.jsdelivr.net/gh/r246145/r246145.github.io@master/img/09/18/19/Y6U27D9ID1HZ.png
+#EXTINF:2.280000,
+https://cdn.jsdelivr.net/gh/r246145/r246145.github.io@master/img/09/18/19/5WOTFCWLQ231.png
+#EXT-X-ENDLIST
