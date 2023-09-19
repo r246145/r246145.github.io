@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://mimgserver.oss-cn-shanghai.aliyuncs.com/yz/upload/image/20230919/6383075527428676681296792.png
+#EXTINF:2.280000,
+https://mimgserver.oss-cn-shanghai.aliyuncs.com/yz/upload/image/20230919/6383075527429238687796421.png
+#EXT-X-ENDLIST
