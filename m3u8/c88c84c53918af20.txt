@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-12/1697042089963.png?_upt=fbcc36158204803200
+#EXTINF:2.280000,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-12/1697042089950.png?_upt=483256d58204803200
+#EXT-X-ENDLIST
